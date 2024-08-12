@@ -2,7 +2,7 @@
 layout:     post
 title:      "Hello 2024"
 subtitle:   "测试"
-date:       2024-08-13 5:56:xx
+date:       2024-08-13 5:57:00
 author:     "hyfhao"
 catalog: true
 tags:
