@@ -1,0 +1,15 @@
+---
+layout:     post
+title:      "Hello 2024"
+subtitle:   "测试"
+date:       2024-08-13 5:54:xx
+author:     "hyfhao"
+catalog: true
+tags:
+    - Meta
+---
+
+> “Yeah It's on. ”
+
+
+hyfhao 的 Blog 就这么开通了。
