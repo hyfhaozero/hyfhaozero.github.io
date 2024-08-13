@@ -1,6 +1,6 @@
 ## hyfhao的个人博客
 
-注: 本blog基于github pages以及Huxproblog(https://github.com/Huxpro/huxpro.github.io)
+注: 本blog基于github pages以及Huxproblog(https://github.com/Huxpro/huxpro.github.io)搭建
 
 主旨: 分享各种资源与网站......
 
