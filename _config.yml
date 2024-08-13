@@ -15,7 +15,7 @@ future: true
 RSS: false
 #weibo_username: hyfhao
 #zhihu_username: hyfhao
-github_username: hyfhao
+github_username: hyfhaozero
 #twitter_username: hyfhao
 #facebook_username:  hyfhao
 #linkedin_username:  firstname-lastname-idxxxx
@@ -91,5 +91,5 @@ page-mathjax: false
 # Friends
 friends:
   [
-    # { title: "name", href: "http://xxx.com" },
+    { title: "readme生成器", href: "https://readme.so/cn" },
   ]
